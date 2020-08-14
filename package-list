@@ -1,0 +1,7 @@
+$dokka.format:html
+$dokka.linkExtension:html
+$dokka.location:xyz.tynn.coana$coana#kotlin.coroutines.CoroutineContextxyz.tynn.coana/kotlin.coroutines.-coroutine-context/coana.html
+$dokka.location:xyz.tynn.coana$coana#kotlinx.coroutines.CoroutineScopexyz.tynn.coana/kotlinx.coroutines.-coroutine-scope/coana.html
+$dokka.location:xyz.tynn.coana.metadata$metadata#kotlin.coroutines.CoroutineContextxyz.tynn.coana.metadata/kotlin.coroutines.-coroutine-context/metadata.html
+xyz.tynn.coana
+xyz.tynn.coana.metadata
